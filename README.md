@@ -10,4 +10,4 @@ The script was previously developed inside Google Colab. Please follow the instr
 
 ## What's Next
 
-The script assists the detection of landscape typology, and enhancing the efficiency and processing speed would be the next goal to touch on. Also, after speaking to landscape architects, the category of plant species will be the next potential data to be added to the pipeline, adding a new dementsion to the analysis.
+The script assists in the detection of landscape typology, and enhancing the efficiency and processing speed will be the next goal to address. Additionally, after speaking with landscape architects, the categorization of plant species will be the next potential data to be added to the pipeline, adding a new dimension to the analysis.
